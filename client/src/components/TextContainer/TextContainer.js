@@ -15,7 +15,10 @@ const TextContainer = ({ users }) => (
       </h1>
       <h2>Created with React, Express, Node and Socket.io </h2>
       <h2>
-        Try it out right now!{" "}
+        <span role="img" aria-label="emoji">
+          ⬅️
+        </span>
+        Try it out right now!
         <span role="img" aria-label="emoji">
           ⬅️
         </span>
